@@ -39,3 +39,7 @@ The schedule of the 3 days course is summarized as below.
 ## Addendum
 
 The notes/resources here in this repository can be used to prepare you for the [AWS Developer Associate Certification Exam](https://aws.amazon.com/certification/certified-developer-associate/).
+
+## References
+
+[Developing on AWS (Classroom) - 3 Days Training](https://aws.amazon.com/training/classroom/developing-on-aws/)
